@@ -1,0 +1,49 @@
+Date,Expense_type,Category,Item_name,Item_quantity,Item_amount,Shop_name,Item_description
+2024-01-01,Daily Expenses,Milk,Milk,2.5,300,Gujjar Milk Shop,
+2024-01-01,Extra Expenses,Medicine,Medicine,3.0,1200,Ghanta Ghar,"M.Mahad 2x
+AMI 1x"
+2024-01-01,Weekly Expenses,Groceries,Eggs (Desi),12.0,460,MashaAllah(Shakori),
+2024-01-01,Weekly Expenses,Groceries,Dates,0.5,240,MashaAllah(Shakori),
+2024-01-01,Weekly Expenses,Groceries,Bhuny Chany,0.5,260,MashaAllah(Shakori),
+2024-01-01,Weekly Expenses,Groceries,Dried Fig (Injeer),0.25,350,MashaAllah(Shakori),
+2024-01-01,Weekly Expenses,Groceries,Black salt,,50,MashaAllah(Shakori),
+2024-01-01,Weekly Expenses,Groceries,White chickpeas (Chany),0.5,170,Near Imran,
+2024-01-01,Weekly Expenses,Groceries,Sultan Oil,1.0,420,Near Imran,
+2024-01-01,Weekly Expenses,Groceries,Pantene Shampoo ,12.0,60,Near Imran,
+2024-01-02,Daily Expenses,Milk,Milk,2.5,375,Gujjar Milk Shop,370
+2024-01-03,Daily Expenses,Milk,Milk,2.5,375,Gujjar Milk Shop,380
+2024-01-03,Weekly Expenses,Groceries,Flour,7.0,980,Ata Chaki opposite to Jalandhar,
+2024-01-03,Vehicle Expenses,Bike,Petrol,3.47,930,Shell Petrol Pump,"17220.1
+2km away from home"
+2024-01-03,Weekly Expenses,Groceries,Chickpea flour(besan),0.5,120,MashaAllah(Shakori),
+2024-01-03,Weekly Expenses,Groceries,Salt,1.0,50,MashaAllah(Shakori),
+2024-01-03,Weekly Expenses,Groceries,Muraba Amla,0.5,280,MashaAllah(Shakori),
+2024-01-03,Weekly Expenses,Groceries,Muraba Harar,0.5,380,MashaAllah(Shakori),
+2024-01-03,Weekly Expenses,Groceries,Eggs (Desi),12.0,460,MashaAllah(Shakori),1 dozon
+2024-01-03,Weekly Expenses,Groceries,Honey (small bee),0.25,750,MashaAllah(Shakori),1 Quater
+2024-01-03,Weekly Expenses,Groceries,White chickpeas,0.5,150,Imran Kryana Store,
+2024-01-03,Weekly Expenses,Groceries,Pantene Shampoo,24.0,114,Imran Kryana Store,
+2024-01-03,Weekly Expenses,Groceries,Bonas Saraf,2.0,96,Imran Kryana Store,50 x 2
+2024-01-03,Weekly Expenses,Groceries,Tibat Soap,2.0,190,Imran Kryana Store,99 x 2
+2024-01-03,Weekly Expenses,Groceries,Match stick,1.0,45,Imran Kryana Store,1 diba
+2024-01-03,Weekly Expenses,Groceries,Teezdam Pati,10.0,180,Imran Kryana Store,20 x 10
+2024-01-03,Weekly Expenses,Groceries,Zeera,0.25,600,Imran Kryana Store,1 Quater
+2024-01-03,Weekly Expenses,Groceries,granulated wheat(Suji),0.5,80,Imran Kryana Store,
+2024-01-03,Weekly Expenses,Groceries,Talo Oil,1.0,415,Imran Kryana Store,Cooking Oil
+2024-01-03,Weekly Expenses,Groceries,Fennel  (Sonf) ,,50,Imran Kryana Store,
+2024-01-03,Weekly Expenses,Groceries,Black pepper (Kali mirch),,200,Imran Kryana Store,
+2024-01-03,Weekly Expenses,Groceries,LongBar Double,1.0,130,Imran Kryana Store,double longbar
+2024-01-04,Daily Expenses,Milk,Milk,2.0,300,Gujjar Milk Shop,
+2024-01-04,Monthly Expenses,Fees,Admission Fee Admire ,,3500,Admire College,
+2024-01-04,Vehicle Expenses,Bike,Petrol,,260,PSO (MasoomShahRoad),"Amount of Petrol/liter => 268.2
+Meter Reading => 27259.1
+Bike Number => MNM9812"
+2024-01-04,Extra Expenses,Dry Fruits,Peanut(Mong Phali),0.25,200,On MasoomShahRoad,
+2024-01-05,Daily Expenses,Milk,Milk,2.5,375,Gujjar Milk Shop,370
+2024-01-05,Weekly Expenses,Groceries,Bhuny Chany,1.0,520,MashaAllah(Shakori),
+2024-01-05,Weekly Expenses,Groceries,Dates,1.0,480,MashaAllah(Shakori),
+2024-01-05,Weekly Expenses,Groceries,Honey (small bee),0.5,1450,MashaAllah(Shakori),
+2024-01-05,Weekly Expenses,Groceries,Eggs (Desi),12.0,460,MashaAllah(Shakori),
+2024-01-05,Extra Expenses,Groceries,Pista,0.0625,200,MashaAllah(Shakori),
+2024-01-05,Weekly Expenses,Groceries,Desi Ghee,1.0,1200,Rahat-e-Shereen,
+2024-01-05,Weekly Expenses,Groceries,Ras,0.5,150,Rahat-e-Shereen,
